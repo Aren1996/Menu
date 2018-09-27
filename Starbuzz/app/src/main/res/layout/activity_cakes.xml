@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.CakesActivity">
+
+    <ImageView
+        android:id="@+id/photo_cakes"
+        android:layout_width="@dimen/tuw_hundraed"
+        android:layout_height="@dimen/tuw_hundraed"
+        android:layout_marginStart="@dimen/ninety"
+        android:layout_marginTop="@dimen/fifty"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/name_cakes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/hundread"
+        android:textSize="@dimen/thirty"
+        android:textStyle="italic"
+        android:textColor="@color/purple"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:id="@+id/description_cakes"
+        android:layout_width="@dimen/hundred_fifty"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/hundread"
+        android:textSize="@dimen/twenty"
+        android:textColor="@color/purple"
+        android:textStyle="italic"
+        tools:ignore="SpUsage" />
+
+</LinearLayout>

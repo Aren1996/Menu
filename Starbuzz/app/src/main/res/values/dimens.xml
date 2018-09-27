@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tuw_hundraed">200dp</dimen>
+    <dimen name="ninety">90dp</dimen>
+    <dimen name="fifty">50dp</dimen>
+    <dimen name="hundread">100dp</dimen>
+    <dimen name="thirty">30dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="two_hundread_fifty">250dp</dimen>
+    <dimen name="hundred_fifty">150dp</dimen>
+    <dimen name="tree_hundred">300dp</dimen>
+</resources>
